@@ -1,0 +1,18 @@
+SP 	0
+BA 	1
+RJ 	2
+Lima 	3
+Bog. 	4
+Sant. 	5
+Carac. 	6
+BH 	7
+PoA 	8
+BsB	9
+
+
+estruturas: matriz (para distancia entre cidades), cromossomo, lista para cromossomos
+fitness: calculo de distancia
+inicio: gerar 10 vetores aleatorios sempre com o V[0]=9 e sem repetir nenhum numero
+reprodução: duas formas -> ordered crossover
+	                -> elitismo
+mutação: 
